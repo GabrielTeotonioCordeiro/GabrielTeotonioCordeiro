@@ -17,15 +17,7 @@ Hi, I’m @Gabriel Teotonio Cordeiro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p>
-    <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=GabrielTeotonioCordeiro&show_icons=true&locale=en&theme=dark" alt="GabrielTeotonioCordeiro" />
-    &nbsp;
-    <img align="rigth" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielTeotonioCordeiro&show_icons=true&locale=en&theme=dark" alt=%22GabrielTeotonioCordeiro" />
-</p>
-
-&nbsp;
 
 ## 🌟 Contributions
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GabrielTeotonioCordeiro&theme=dark)](https://git.io/streak-stats)
